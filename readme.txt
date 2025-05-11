@@ -19,4 +19,3 @@ Animate.css
 
 Scrollax & Magnific Popup
 
-Google Maps API
